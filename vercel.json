@@ -1,0 +1,10 @@
+{
+          "version": 2,
+          "builds": [
+            {
+              "src": "sample_trash/**",
+              "use": "@vercel/static"
+            }
+          ]
+        }
+        
