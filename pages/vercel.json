@@ -1,0 +1,7 @@
+{
+          "routes": [
+            { "src": "/model.json", "dest": "/public/model.json" },
+            { "src": "/weights.bin", "dest": "/public/weights.bin" },
+            { "src": "/metadata.json", "dest": "/public/metadata.json" }
+          ]
+        }
